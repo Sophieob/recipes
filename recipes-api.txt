@@ -1,0 +1,102 @@
+export const api = [
+  {
+    cid: 1,
+    name: "Mexican Black Bean Salad",
+    ingredients:
+      "Mixed greens, black beans, corn kernels, diced tomatoes, diced red onion, half an avocado, cilantro, olive oil",
+    recipe: "Mix all the ingredients to compose your salad",
+    time: "10 min",
+    level: "Easy"
+  },
+
+  {
+    cid: 2,
+    name: "Miso chickpeas and avocado on toast",
+    ingredients: "400g chickpeas, 1 avocado, bread, onion",
+    recipe:
+      "STEP 1 Put the chickpeas, miso, sesame oil, lemon juice and some seasoning in a bowl. Use a potato masher to crush everything together until you have a rough paste. STEP 2 Spoon the avocado into another bowl and break up with a fork until roughly crushed. Fold the avocado through the chickpeas, then spread over the bread. Sprinkle with the sesame seeds and sliced spring onions. Serve with lemon wedges to squeeze over.",
+    time: "15 min",
+    level: "Medium"
+  },
+
+  {
+    cid: 3,
+    name: "Gazpacho sauce spaghetti",
+    ingredients:
+      "160g spaghetti,250g cherry tomatoes,½ a clove garlic,½ red onion,1 green pepper",
+    recipe:
+      "STEP 1 Cook the pasta following pack instructions until al dente. STEP 2 Meanwhile, put the tomatoes, pepper, garlic and onion into a blender and whizz until completely smooth. Season, then stir in the sherry vinegar and Tabasco. STEP 3 Once the pasta is cooked, drain well and toss with the sauce. Tear in lots of basil and serve.",
+    time: "15 min",
+    level: "Medium"
+  },
+  {
+    cid: 4,
+    name: "Aubergine teriyaki bowls",
+    ingredients:
+      "120g jasmine rice, 1 aubergine, 1 carrot, 2 spring onions,1 clove garlic,a handful radishes",
+    recipe:
+      "Heat the stock and add the sliced ginger, the whole chilli half and the garlic.",
+    time: "30 min",
+    level: "difficult"
+  },
+  {
+    cid: 5,
+    name: "Thai green tofu curry",
+    ingredients:
+      "240g jasmine rice,225g pack smoked tofu,50g Thai green curry paste,400g tin low-fat coconut milk,150g sugar snap peas, coriander, lime",
+    recipe:
+      "STEP 1 Put the jasmine rice into a pan with 480ml of water and a pinch of salt. Bring to the boil, turn the heat to low, put on a lid and simmer gently for 10 minutes, then leave off the heat to steam for another 10 minutes. Fluff up with a fork just before serving.STEP 2 Toss the smoked tofu in a bowl with the oil then cook in a non-stick frying pan for 1-2 minutes on each side until really crisp, then remove with a slotted spoon.STEP 3 Add the curry paste and coconut milk to the pan and simmer for 5 minutes until reduced slightly. Return the tofu along with the sugar snaps, baby sweetcorn and green beans, and simmer for 5 minutes until the vegetables are tender.STEP 4 Stir the lime juice and coriander through the curry, then serve with the rice.",
+    time: "25 min",
+    level: "Difficult"
+  },
+  {
+    cid: 6,
+    name: "Tofu fried rice",
+    ingredients:
+      "240g basmati rice, 1 red chilli, 100g smoked tofu, 200g pack stir-fry baby vegetables, 100g frozen peas, 1 tbsp soy sauce, sriracha",
+    recipe:
+      "Heat the oil in a non-stick pan or wok and fry the rice for 5-10 minutes or until beginning to turn golden.",
+    time: "25 min",
+    level: "Easy"
+  },
+  {
+    cid: 7,
+    name: "Easy vegan pancakes with berry compote",
+    ingredients:
+      "200g mixed frozen berries,1 tbsp icing sugar,150g plain flour,150ml unsweetened almond milk,150g sugar snap peas, 2 tsp baking powder, a pinch salt",
+    recipe:
+      "ip the berries into a small pan with the icing sugar and lemon juice, and cook for 5-10 minutes or until saucy.",
+    time: "25 min",
+    level: "Easy"
+  },
+  {
+    cid: 8,
+    name: "Mushroom ramen",
+    ingredients:
+      "750ml vegetable stock,4cm piece ginger,1 red chilli,1 clove garlic,2 tbsp white miso paste, 200g frozen ramen, 1 tbsp vegetable oil",
+    recipe:
+      "Heat the stock and add the sliced ginger, the whole chilli half and the garlic.",
+    time: "20 min",
+    level: "Medium"
+  },
+  {
+    cid: 9,
+    name: "Steamed aubergines with peanut dressing",
+    ingredients:
+      "350g pack baby aubergines,1 tbsp peanut butter,1 tbsp soy sauce,1 tbsp rice vinegar,1 tbsp caster sugar, 1 tbsp chin chow chilli oil, 2 tsp sesame seeds",
+    recipe:
+      "Put the aubergines into a steamer above a pan of simmering water and cook for 15 minutes or until really tender.",
+    time: "20 min",
+    level: "Easy"
+  },
+  {
+    cid: 10,
+    name: "Vegan Thai green curry",
+    ingredients:
+      "2 tbsp sunflower oil, butternut squash, 3 tbsp light soy sauce, 1 lime, coriander, 1 red chilli, 1 spring onion, jasmine rice",
+    recipe:
+      "Heat 1 tbsp of sunflower oil in a wok while you toss the butternut squash cubes into the soy sauce.",
+    time: "15 min",
+    level: "Easy"
+  }
+];
